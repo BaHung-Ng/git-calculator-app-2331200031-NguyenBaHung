@@ -1,0 +1,12 @@
+﻿
+C:\Users\kietl\Downloads\CSW303_SE_BaHung\submission_lab2_2331200031_NguyenBaHung\calculator-app (1)\src\main\main.js
+  5:9  warning  'unusedConfig' is assigned a value but never used  no-unused-vars
+
+C:\Users\kietl\Downloads\CSW303_SE_BaHung\submission_lab2_2331200031_NguyenBaHung\calculator-app (1)\src\renderer\app.js
+  165:9  warning  'debugMode' is assigned a value but never used  no-unused-vars
+
+C:\Users\kietl\Downloads\CSW303_SE_BaHung\submission_lab2_2331200031_NguyenBaHung\calculator-app (1)\src\shared\calculator.js
+  2:9  warning  'unusedVar' is assigned a value but never used  no-unused-vars
+
+Γ£û 3 problems (0 errors, 3 warnings)
+
